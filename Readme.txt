@@ -18,7 +18,7 @@ and robustness compared with state-of-the-art algorithms.
 
 Simulation code:
 Initial.m: Sets the initial parameters for the simulation.
-AF.m: Implements the <AF 的实际名称>.
+AF.m: Implements the activation function.
 RND.m: Implements the RND algorithm.
 CFS.m: Implements the CFS algorithm.
 SCFS.m: Implements the SCFS algorithm.
